@@ -1,0 +1,5 @@
+<template>
+  <div id="forgot-password">
+    <h2>Forgot Password</h2>
+  </div>
+</template>
